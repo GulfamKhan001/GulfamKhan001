@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GulfamKhan001
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JAVASCRIPT
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedin.com/in/gulfam-khan7986
 
 <!---
