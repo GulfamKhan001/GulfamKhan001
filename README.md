@@ -1,6 +1,5 @@
 
 ## Hey 👋, I'm Gulfam Khan!
----
 I am a versatilist and easily adapt to different hats depending on what the project requires. I love exploring new tech stack 👨🏻‍💻 and leveraging them to build cool stuffs 🛠️.
 
 ### 🧐 More About Me:
