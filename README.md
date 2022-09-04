@@ -19,7 +19,7 @@ I am a versatilist and easily adapt to different hats depending on what the proj
 ⋅⋅*📚  When I am free, I play Games and watch fictional movies.
 
 
-
+---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GulfamKhan001&show_icons=true&theme=tokyonight)
 
