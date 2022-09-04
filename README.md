@@ -4,20 +4,13 @@ I am a versatilist and easily adapt to different hats depending on what the proj
 
 ### 🧐 More About Me:
 
-⋅⋅*🔭  I’m currently learning ReactJS.
-
-⋅⋅*🤝  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient.
-
-⋅⋅*📫  How to reach me , you can email me at [gulfamkajla@gmail.com](gulfamkajla@gmail.com).
-
-⋅⋅*💻  I am actively looking for jobs for the role of SDE.
-
-⋅⋅*💬  Ask me about anything tech related, I am happy to help;.
-
-⋅⋅*📫  Feel free to ping me on [LinkedIn](www.linkedin.com/in/gulfam-khan7986).
-
-⋅⋅*📚  When I am free, I play Games and watch fictional movies.
-
+* 🔭  I’m currently learning ReactJS.  
+* 🤝  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient.  
+* 📫  How to reach me , you can email me at [gulfamkajla@gmail.com](gulfamkajla@gmail.com).  
+* 💻  I am actively looking for jobs for the role of SDE.  
+* 💬  Ask me about anything tech related, I am happy to help;.  
+* 📫  Feel free to ping me on [LinkedIn](www.linkedin.com/in/gulfam-khan7986).  
+* 📚  When I am free, I play Games and watch fictional movies.
 
 ---
 
