@@ -18,6 +18,8 @@ I am a versatilist and easily adapt to different hats depending on what the proj
 
 ⋅⋅*📚  When I am free, I play Games and watch fictional movies.
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GulfamKhan001&show_icons=true&theme=merko)
+
 <!---
 GulfamKhan001/GulfamKhan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
