@@ -21,7 +21,7 @@ I am a versatilist and easily adapt to different hats depending on what the proj
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GulfamKhan001&show_icons=true&theme=cobalt)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=40px)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GulfamKhan001&show_icons=true&theme=cobalt)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GulfamKhan001&layout=compact&card_width=40px)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 GulfamKhan001/GulfamKhan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
