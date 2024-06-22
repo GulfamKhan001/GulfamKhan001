@@ -4,17 +4,15 @@ I am a versatilist and easily adapt to different hats depending on what the proj
 
 ### 🧐 More About Me:
 
-* 🔭  I’m currently learning Backend.  
+* 🔭  I’m currently learning DevOps.  
 * 🤝  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient.  
-* 📫  How to reach me , you can email me at [gulfamkajla@gmail.com](gulfamkajla@gmail.com).  
+* 📫  How to reach me , you can email me at [gulfamkhan86999@gmail.com](gulfamkhan86999@gmail.com).  
 * 💻  I am actively looking for jobs for the role of SDE.  
 * 💬  Ask me about anything tech related, I am happy to help;.  
 * 📫  Feel free to ping me on [LinkedIn](www.linkedin.com/in/gulfam-khan7986).  
-* 📚  When I am free, I play Basketball and watch fictional movies.
+* 📚  When I am free, I play Basketball and read books.
 
 ---
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GulfamKhan001&show_icons=true&theme=cobalt)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GulfamKhan001&layout=compact&card_width=50)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 GulfamKhan001/GulfamKhan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
